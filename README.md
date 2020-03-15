@@ -43,4 +43,4 @@ For Documentation and testing the endpoints, We have used Swagger 2 for a Spring
         2. Now you can test it in your browser by visiting http://localhost:8080/swagger-ui.html
    
 
-
+Assumptions: For Last_seen and Last_fetched fields, we have used Date-Time format as it will be more convenient to integrate it to any other application which is consuming our services.    
