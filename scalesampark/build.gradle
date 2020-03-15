@@ -29,6 +29,7 @@ dependencies {
 	compile 'org.springframework.plugin:spring-plugin-core:1.2.0.RELEASE'
 
 	runtimeOnly('com.microsoft.sqlserver:mssql-jdbc')
+	runtimeOnly('org.postgresql:postgresql')
 
 }
 
